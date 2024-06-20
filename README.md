@@ -23,12 +23,13 @@ Usamos un dataset sacado de Kaggle que contaba con los datos de muchas entregas 
   * RandomForestRegressor
   * SVR
   * DecisionTreeRegressor con CVS(Cross validation score)
+- Modelos sequenciales con una tres y seis capaz ocultas
 
 
 # Enlaces
 
 * Código: https://colab.research.google.com/drive/1QP0Jvpax5YL1ua1yjuh9h1siMem30O8-?usp=sharing#scrollTo=YOpmJOfhW3xY
 
-* Video: 
+* Video: https://youtu.be/TXOX5s5tkys
 
 * Repositorio: https://github.com/Izidr0x/An-lisis-de-tiempos-de-entrega
