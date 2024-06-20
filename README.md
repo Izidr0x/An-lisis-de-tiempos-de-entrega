@@ -18,6 +18,11 @@ Usamos un dataset sacado de Kaggle que contaba con los datos de muchas entregas 
 
 # Modelos
 
+* Estimadores:
+* DecisionTreeRegressor
+* RandomForestRegressor
+* SVR
+* DecisionTreeRegressor con CVS(Cross validation score)
 
 # Enlaces
 
